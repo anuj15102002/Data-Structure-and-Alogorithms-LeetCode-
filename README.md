@@ -53,4 +53,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
