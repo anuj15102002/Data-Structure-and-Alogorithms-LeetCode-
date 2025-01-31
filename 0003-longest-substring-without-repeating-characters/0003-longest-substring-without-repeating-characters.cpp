@@ -3,20 +3,20 @@ public:
     int lengthOfLongestSubstring(string s) {
         int maxLength=0;
         int n=s.length();
-        unordered_map<char,int> charSet;
+        unordered_map<char,int> charMap;
         int left=0;
     
         for(int right=0;right<n;right++)
         {
-            if(charSet.count(s[right])==0 || charSet[s[right]]<left)
+            if(charMap.count(s[right])==0 || charMap[s[right]]<left)
             {
-                charSet[s[right]]=right;
+                charMap[s[right]]=right;
                 maxLength=max(maxLength,right-left+1);
             }
             else 
             {
-                left=charSet[s[right]]+1;
-                charSet[s[right]]=right;    
+                left=charMap[s[right]]+1;
+                charMap[s[right]]=right;    
             }
         }
         return maxLength;
