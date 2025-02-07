@@ -3,7 +3,7 @@ class Solution {
         String[] words=s.trim().split("\\s+");
         int i=0;
         int j=words.length-1;
-        while(i<=j)
+        while(i<j)
         {
             String temp=words[i];
             words[i]=words[j];
