@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
