@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1894-merge-strings-alternately) |
 ## Design
 |  |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
