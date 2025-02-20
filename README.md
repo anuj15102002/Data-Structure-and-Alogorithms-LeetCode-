@@ -85,9 +85,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
