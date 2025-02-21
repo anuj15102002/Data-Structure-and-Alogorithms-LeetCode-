@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
+| [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -91,5 +93,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
