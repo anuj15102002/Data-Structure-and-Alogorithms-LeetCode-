@@ -12,11 +12,11 @@ class Solution {
             }
             if(zeroes<=1)
             {
-                len=r-l+1;
+                len=r-l;
                 maxLen=Math.max(maxLen,len);
             }
             r++;
         }
-        return maxLen-1;
+        return maxLen;
     }
 }
