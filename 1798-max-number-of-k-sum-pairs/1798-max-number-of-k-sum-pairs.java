@@ -2,7 +2,7 @@ class Solution {
     public int maxOperations(int[] nums, int k) {
         Map<Integer,Integer> result=new HashMap<>();
         // hashmap to store value
-        //and number of times they have not been used to find 
+        //and number of times they have not been used
 
         int count=0; //to count the number of pairs have sum equal to k
         
