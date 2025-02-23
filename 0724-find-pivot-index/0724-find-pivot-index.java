@@ -25,3 +25,8 @@ class Solution {
         return -1;
     }
 }
+
+// in the loop we have the both leftSum of all the number before i index
+//and rightSum of all the number after i index 
+//leftSum is calulated after checking for the next loop
+//rightSum is calculated at the start of the loop
