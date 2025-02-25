@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
