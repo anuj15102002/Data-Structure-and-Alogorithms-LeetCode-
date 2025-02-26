@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
