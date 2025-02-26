@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1894-merge-strings-alternately) |
@@ -112,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
