@@ -10,7 +10,7 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             count[ori[i] - 'a']++;
-            count[rep[i] i- 'a']--;
+            count[rep[i] - 'a']--;
         }
 
         for(int n:count)
