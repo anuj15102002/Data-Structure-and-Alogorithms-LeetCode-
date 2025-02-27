@@ -12,16 +12,23 @@ class Solution {
                 if(sum==target)return target;
                 else if(sum>target)r--;
                 else l++;
-
+                
+                //here we checking the which triplet sum is closest to target
                 int diffToTarget=Math.abs(sum-target);
+
+                //and comparing with other triplet's sum
                 if(diffToTarget<minDifference)
                 {
+                    //replacing resultSum with sum if it is closest to target
                     resultSum=sum;
+                    //replacing minDifference with diffToTarget if it 
+                    //closest to target
                     minDifference=diffToTarget;
                 }
             }
             
         }
+        //returning the closest triplet sum to the target
         return resultSum;
     }
 }
