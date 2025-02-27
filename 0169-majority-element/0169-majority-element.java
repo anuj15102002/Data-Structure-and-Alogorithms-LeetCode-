@@ -5,11 +5,11 @@ class Solution {
         {
             map.put(n,map.getOrDefault(n,0)+1);
         }
-        for(int n:nums)
+        for(Map.Entry<Integer,Integer> entry: map.entrySet())
         {
-            if(map.get(n)>(Integer)nums.length/2)
+            if(entry.getValue()>nums.length/2)
             {
-                return n;
+                return entry.getKey();
             }
 
         }
