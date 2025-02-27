@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
@@ -128,5 +131,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
