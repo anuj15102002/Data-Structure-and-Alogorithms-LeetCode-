@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0217-contains-duplicate) |
@@ -154,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
