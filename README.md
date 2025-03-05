@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
