@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0189-rotate-array) |
@@ -171,5 +172,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
