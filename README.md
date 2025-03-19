@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0141-linked-list-cycle) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0141-linked-list-cycle) |
