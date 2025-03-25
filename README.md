@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
