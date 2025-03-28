@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0724-find-pivot-index) |
+| [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Union Find
 |  |
 | ------- |
@@ -216,4 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
