@@ -236,5 +236,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
