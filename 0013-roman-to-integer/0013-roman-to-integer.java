@@ -15,19 +15,16 @@ class Solution {
         }
     }
     public int romanToInt(String s) {
-        int sum=0;
+        int sum = 0;
         for(int i=0;i<s.length();i++)
         {
-            char ch=s.charAt(i);
-            if(i+1 <  s.length() && getVal(s.charAt(i))<getVal(s.charAt(i+1)))
+            if(i+1 < s.length() && getVal(s.charAt(i)) < getVal(s.charAt(i+1)))
             {
-                sum=sum-getVal(s.charAt(i));
+                sum -= getVal(s.charAt(i));
             }
-            else
-            {
-                sum=sum+getVal(s.charAt(i));
-            }
+            else sum += getVal(s.charAt(i));
         }
         return sum;
+        
     }
 }
