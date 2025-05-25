@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        if(nums.length<nums.length || nums==null)return new ArrayList<>();
+        if(nums==null)return new ArrayList<>();
         //Sort the arrya
         Arrays.sort(nums);
 
