@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1539-kth-missing-positive-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1833-find-the-highest-altitude) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1539-kth-missing-positive-number) |
 ## Counting
 |  |
 | ------- |
