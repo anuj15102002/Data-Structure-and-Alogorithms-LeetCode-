@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -287,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
