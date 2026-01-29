@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0954-maximum-sum-circular-subarray) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -294,4 +296,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
