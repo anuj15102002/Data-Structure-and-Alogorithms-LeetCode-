@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0086-partition-list) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0055-jump-game) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -295,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
