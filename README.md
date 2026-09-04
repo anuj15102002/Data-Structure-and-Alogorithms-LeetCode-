@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0402-remove-k-digits) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0739-daily-temperatures) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anuj15102002/Data-Structure-and-Alogorithms-LeetCode-/tree/master/0739-daily-temperatures) |
